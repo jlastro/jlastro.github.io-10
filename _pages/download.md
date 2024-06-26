@@ -1,8 +1,8 @@
 ---
-title: "Software"
+title: "Download"
 layout: gridlay
 sitemap: false
-permalink: /software/
+permalink: /download/
 ---
 
 <style>
@@ -47,7 +47,7 @@ iframe {
 <b>Authors:</b>
 <i>Example authors</i>
 
-Example software description.
+Example data description.
 
 </div>
 </div>

@@ -37,22 +37,22 @@ various ground- and space-based telescopes. Sometimes I even do numerical
 simulations and run complicated models to explain the observations on
 supercomputers. You can learn more in the [research](/research) page.
 
-I have been interested in astronomy since I was a child and still enjoy
-stargazing once in a while. In particular, I conduct astrophotography and
-chase solar eclipses. Besides watching the sky, I am also a fun of drawing &
-painting (both paper and digital), running (marathon races included), anime and
-sci-fi. 
+
 
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_enviroment.png" width="100%"/><br/>
+Cartoon of AGN dusty environment at various scales <br/>
+Lyu & Rieke, Infrared Spectral Energy Distribution and Variability of Active Galactic Nuclei: Clues to the Structure of Circumnuclear Material. <i>Universe</i> (2022)
 </center>
 </div>
 </div>
 <br/>
 
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I have been interested in astronomy since I was a child and still enjoy
+stargazing once in a while. In particular, I conduct astrophotography and
+chase solar eclipses. Besides watching the sky, I am also a fun of drawing &
+painting (both paper and digital), running (marathon races included), anime and
+sci-fi. 

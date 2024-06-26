@@ -7,11 +7,42 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+I am an astronomer at [Steward
+Observatory](https://www.as.arizona.edu/), [University of
+Arizona](https://www.arizona.edu/) and a member of the JWST/MIRI Science Team.
+I study supermassive black holes (SMBHs) and galaxies across the cosmic time
+with a focus on their infrared properties. 
+
+Unravelling the mysteries of SMBHs and their relationship with galaxies is a
+major mission in extragalactic astronomy. How do SMBH influence galaxy
+formation and evolution? What are the mechanisms behind their growth and
+interactions with surrounding matter? To address these questions, we need a
+complete census of the active galactic nuclei (AGN) and galaxies with the
+reasonable constraints on their properties. However, the existence of large
+amount of dust makes many systems obscured and greatly complicates the
+interpretations of the observed properties.
+ 
+Unlike many astronomers who have been annoyed by dust, I take advantage of its
+IR emission to search and characterize AGN and their host systems with the
+combination of various data and techniques across the electromagnetic spectrum.
+This includes multi-wavelength diagnostics from deep X-ray, optical, IR and
+radio surveys to search for obscured AGNs across cosmic time, comparative
+spectral energy distribution (SED) analysis of the unresolved multi-band
+UV-to-submm photometry measurements of low-z objects and high-z ones to obtain
+insights on the AGN dusty environment, optical to near-IR time variability and
+dust reverberation mapping to probe the very inner structures of the AGN torus.
+I also conduct image morphological study, optical--to--mid-IR integral field
+unit (IFU) and spectroscopic observations of AGN and galaxies near and far with
+various ground- and space-based telescopes. Sometimes I even do numerical
+simulations and run complicated models to explain the observations on
+supercomputers. You can learn more in the [research](/research) page.
+
+I have been interested in astronomy since I was a child and still enjoy
+stargazing once in a while. In particular, I conduct astrophotography and
+chase solar eclipses. Besides watching the sky, I am also a fun of drawing &
+painting (both paper and digital), running (marathon races included), anime and
+sci-fi. 
+
 
 <div class="container">
 <div class="row">
@@ -24,9 +55,4 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </div>
 <br/>
 
-### About me
-
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
 After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.

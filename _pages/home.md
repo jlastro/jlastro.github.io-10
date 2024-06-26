@@ -43,7 +43,7 @@ supercomputers. You can learn more in the [research](/research) page.
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_enviroment.png" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_environment.png" width="100%"/><br/>
 Cartoon of AGN dusty environment at various scales <br/>
 Lyu & Rieke, Infrared Spectral Energy Distribution and Variability of Active Galactic Nuclei: Clues to the Structure of Circumnuclear Material. <i>Universe</i> (2022)
 </center>

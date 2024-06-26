@@ -6,7 +6,10 @@
   #researchgate: 
   scholar: https://scholar.google.com/citations?user=OHejMf0AAAAJ
   cv: cv/cv.pdf
-  # Change the items in "education" you have (up to 6)
+  orcid: https://orcid.org/0000-0002-6221-1829
+  arxiv: "https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=jianwei+lyu&terms-0-field=author&classification-physics=y&classification-physics_archives=astro-ph&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
+  ads: "https://ui.adsabs.harvard.edu/public-libraries/jbbTsn0iQhuruu2S8X9e3Q"
+
   education:
     [
       "(2020) Ph.D. Astronomy & Astrophyscis, University of Arizona",

@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Jianwei Lyu
+email: jianwei@arizona.edu
+description: Academic webpage of Dr. Jianwei Lyu
 baseurl: ""
 url: ""
 
@@ -12,17 +12,17 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Jianwei Lyu<br/>
+  Assistant Research Professor<br/>
+  University of Arizon
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Steward Observatory 262<br/>
+  933 N Cherry Ave<br/>
+  Tucson, AZ 85719
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+  <a href="mailto:jianwei@arizona.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Jianwei via email</a> <br/>
   <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
@@ -31,10 +31,10 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
+  - name: download
+#  - name: team
   - name: teaching
-  - name: blogs
+#  - name: blogs
 
 include:
   - .htaccess

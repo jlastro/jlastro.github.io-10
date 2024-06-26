@@ -1,17 +1,19 @@
-- name: Dr. Richard Feynman
+- name: Dr. Jianwei Lyu
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: Assistant Research Professor, University of Arizona
+  email: jianwei@arizona.edu
+  #github: https://github.com/
+  researchgate: 
+  scholar: https://scholar.google.com/citations?user=OHejMf0AAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2020) Ph.D. Astronomy & Astrophyscis, University of Arizona",
+      "(2014) M.S. Astronomy, Shanghai Astronomical Observatory",
+      "(2011) B.S. Astronomy, University of Science & Technology of China",
+
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2020) Ph.D. Astronomy & Astrophyscis, UArizona", "(2014) M.S. Astronomy, SHAO", "(2011) B.S. Astronomy, USTC"]

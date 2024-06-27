@@ -48,15 +48,14 @@ dust reverberation mapping to probe the very inner structures of the AGN torus.
 I also conduct image morphological study, optical--to--mid-IR integral field
 unit (IFU) and spectroscopic observations of AGN and galaxies near and far with
 various ground- and space-based telescopes. Sometimes I even do numerical
-simulations and run complicated models to explain the observations on
-supercomputers. You can learn more in the [research](/research) page.
+simulations and run complicated models on supercomputers to explain the observations. 
+You can learn more in the [research](/research) page.
 
 
 
 
-
-
-I have been interested in astronomy since I was a child and still enjoy
+I grew up in an under-developed [city](https://en.wikipedia.org/wiki/Xining) in western 
+China and have been interested in astronomy since I was a child. Today I still enjoy 
 stargazing once in a while. In particular, I conduct astrophotography and
 chase solar eclipses. Besides watching the sky, I am also a fun of drawing &
 painting (both paper and digital), running (marathon races included), anime and

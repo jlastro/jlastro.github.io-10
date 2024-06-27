@@ -26,8 +26,6 @@ Lyu & Rieke, Infrared Spectral Energy Distribution and Variability of Active Gal
 </center>
 </div>
 </div>
-<br/>
-
 
 Unravelling the mysteries of SMBHs and their relationship with galaxies is a
 major mission in extragalactic astronomy. How do SMBH influence galaxy

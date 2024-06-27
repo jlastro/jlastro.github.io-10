@@ -7,6 +7,12 @@ permalink: /
 
 ### Welcome!
 
+I am an astronomer at [Steward
+Observatory](https://www.as.arizona.edu/), [University of
+Arizona](https://www.arizona.edu/) and a member of the JWST/MIRI Science Team.
+I study supermassive black holes (SMBHs) and galaxies across the cosmic time
+with a focus on their infrared properties. 
+
 <div class="container">
 <div class="row">
 <center>
@@ -22,12 +28,6 @@ Lyu & Rieke, Infrared Spectral Energy Distribution and Variability of Active Gal
 </div>
 <br/>
 
-
-I am an astronomer at [Steward
-Observatory](https://www.as.arizona.edu/), [University of
-Arizona](https://www.arizona.edu/) and a member of the JWST/MIRI Science Team.
-I study supermassive black holes (SMBHs) and galaxies across the cosmic time
-with a focus on their infrared properties. 
 
 Unravelling the mysteries of SMBHs and their relationship with galaxies is a
 major mission in extragalactic astronomy. How do SMBH influence galaxy

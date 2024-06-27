@@ -34,6 +34,21 @@ permalink: /about/
 </div>
 {% endfor %}
 
+
+<div class="jumbotron">
+  <h3>Reserch Interest</h3>
+  <ul>
+      <li> extrgalactic survey and IR astronomy </li>
+      <li> search and characterization of elusive AGN </li>
+      <li> AGN IR properties and unification; interplay between the AGN torus and host ISM </li>
+      <li> black hole/galaxy connection; high-z AGN and quasars </li>
+      <li> optical and IR time-domain astronomy </li>
+      <li> dust, PAH and star formation </li>
+  </ul>
+</div>
+
+
+
 {% if site.data.grants %}
 
 <div class="jumbotron">

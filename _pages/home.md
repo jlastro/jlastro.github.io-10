@@ -56,8 +56,8 @@ You can learn more in the [research](/research) page.
 
 I grew up in an under-developed [city](https://en.wikipedia.org/wiki/Xining) with 
 low light polution in western China and have been interested in astronomy since I was a child. 
-Today I still enjoy stargazing once in a while. In particular, I conduct astrophotography and
-[an eclipse chaser](https://www.eclipse-chaser-log.com/eclipse-log/336). Besides watching the sky, 
-I am also a fan of drawing & painting (both paper and digital), running (marathon races included), 
-anime and sci-fi. More about these non-work-related things can be checked in [personal](/personal) 
-page.
+Today I still enjoy stargazing once in a while. In particular, I am
+[an eclipse chaser](https://www.eclipse-chaser-log.com/eclipse-log/336) and conduct astrophotography. 
+Besides watching the sky, I am also a fan of drawing & painting (both paper and digital), running 
+(marathon races included), anime and sci-fi. More about these non-work-related things can be checked 
+in [personal](/personal) page.

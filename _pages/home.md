@@ -11,7 +11,7 @@ permalink: /
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_environment.png" width="100%"/><br/>
- <span style="font-size: 10px; color: blue;">
+ <span style="font-size: 15px; color: yellow;">
 Cartoon of AGN dusty environment at various scales </span> <br/>
  <span style="font-size: 10px; color: green;">
 Lyu & Rieke, Infrared Spectral Energy Distribution and Variability of Active Galactic Nuclei: Clues to the Structure of Circumnuclear Material.

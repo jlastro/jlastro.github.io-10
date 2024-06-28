@@ -18,11 +18,11 @@ with a focus on their infrared properties.
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_environment.png" width="100%"/><br/>
  <span style="font-size: 15px; color: yellow;">
-Cartoon of AGN dusty environment at various scales </span>
-  </span>
+Cartoon of AGN dusty environment at various scales </span><br/>
 </center>
 </div>
 </div>
+
 
 Unravelling the mysteries of SMBHs and their relationship with galaxies is a
 major mission in extragalactic astronomy. How do SMBH influence galaxy

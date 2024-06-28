@@ -34,12 +34,12 @@ iframe {
 }
 </style>
 
-## Software
+## Download
 
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>Example Software</b></h4>
+<h4><b>AGN Catalogs</b></h4>
 <a href="https://example.com" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
 <a href="https://github.com" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
@@ -49,6 +49,45 @@ iframe {
 
 Example data description.
 
+</div>
+</div>
+</div>
+
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>SED templates and models</b></h4>
+<a href="https://example.com" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
+<a href="https://github.com" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+
+<b>Authors:</b>
+<i>Example authors</i>
+
+Example data description.
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>Data</b></h4>
+<a href="https://example.com" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
+<a href="https://github.com" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+
+<b>Authors:</b>
+<i>Example authors</i>
+
+Example data description.
+
+</div>
 </div>
 </div>
 </div>

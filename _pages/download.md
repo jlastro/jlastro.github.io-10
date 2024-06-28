@@ -71,7 +71,7 @@ Example data description.
 </div>
 </div>
 </div>
-</div>
+
 
 
 <div class="jumbotron">
@@ -90,4 +90,4 @@ Example data description.
 </div>
 </div>
 </div>
-</div>
+

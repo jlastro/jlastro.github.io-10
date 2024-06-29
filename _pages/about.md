@@ -110,7 +110,7 @@ permalink: /about/
 {% if site.data.outreach %}
 
 <div class="jumbotron">
-  <h3>Honors and Awards</h3>
+  <h3>Service and Outreach</h3>
   <ul>
     {% for outreach in site.data.outreach %}
       <li>{{ outreach.name | replace: "-","&#8211;" }}</li>

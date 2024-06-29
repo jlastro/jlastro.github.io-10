@@ -57,7 +57,7 @@ pre{
 {% endif %}
 
 {% if entry.type == 'unpublished' or entry.type == 'article' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}
-<button class="btn-bib"  onclick="toggleBibtex{{entry.key}}()">BIB</button>
+<button class="btn-bib"  onclick="toggleBibtex{{entry.key}}()"><i class="fa fa-save" aria-hidden="true"></i>BIB</button>
 {% endif %}
 
 {% if entry.abstract %}

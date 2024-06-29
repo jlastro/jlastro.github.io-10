@@ -68,6 +68,19 @@ permalink: /about/
 </div>
 
 
+{% if site.data.appoint %}
+
+<div class="jumbotron">
+  <h3>Professional Appointments</h3>
+  <ul>
+    {% for appoint in site.data.appoint %}
+      <li>{{ appoint.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
 
 {% if site.data.grants %}
 
@@ -84,10 +97,23 @@ permalink: /about/
 {% if site.data.awards %}
 
 <div class="jumbotron">
-  <h3>Awards</h3>
+  <h3>Honors and Awards</h3>
   <ul>
     {% for award in site.data.awards %}
       <li>{{ award.name | replace: "-","&#8211;" }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+
+{% if site.data.outreach %}
+
+<div class="jumbotron">
+  <h3>Honors and Awards</h3>
+  <ul>
+    {% for outreach in site.data.outreach %}
+      <li>{{ outreach.name | replace: "-","&#8211;" }}</li>
     {% endfor %}
   </ul>
 </div>

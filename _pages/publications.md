@@ -19,9 +19,9 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/word_cloud_2406.jpeg" width="60%"/><br/>
- <span style="font-size: 15px; color: yellow;">
+     <span style="font-size: 15px; color: yellow;">
 Research Keyword Cloud </span> <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/word_cloud_2406.jpeg" width="60%"/><br/>
 </center>
 </div>
 

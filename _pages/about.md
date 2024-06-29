@@ -44,7 +44,7 @@ permalink: /about/
 <div class="rowl3">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/USTClogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px; margin-right:10px" />
   09/2007 - 06/2011, <strong>Bachelor of Science (B.S.)</strong> <br /> 
-  Astronomy, The University of Science and Technology of China <br /> 
+  The University of Science and Technology of China <br /> 
   </p>
 </div>
 

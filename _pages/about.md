@@ -51,7 +51,7 @@ permalink: /about/
 </div>
 </div>
 </div>
-
+{% endfor %}
 
 
 <div class="jumbotron">

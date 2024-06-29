@@ -37,18 +37,6 @@ For a complete list of publications, check
 ### Featured publications:
 
 
-
 <div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
-</div>
-
-<div class="jumbotron">
-### Refereed journal articles
 {% bibliography --query @article %}
-</div>
-
-<div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
 </div>

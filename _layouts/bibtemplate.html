@@ -24,6 +24,8 @@ pre{
 
 
 <div class="text-justify">{{reference | replace_first: 'Lyu, J.', '<b>Lyu, J.</b>' | replace_first: 'Lyu, Jianwei', '<b>Lyu, Jianwei</b>' }}</div>
+<div class="text-justify">{{reference | replace_first: entry.title, <b style='color:yellow'>{{ entry.title }}</b> }}</div>
+
 
 {% assign bibtest = false %}
 {% if entry.file %}
@@ -41,9 +43,6 @@ pre{
 <a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.file }}" target="_blank"><button class="btn-pdf"><i class="fa fa-file-pdf-o fa-1x" aria-hidden="true"></i>PDF</button></a>
 {% endif %}
 
-{% if entry.title %}
-<b style='color:yellow'>{{ entry.title }}</b>
-{% endif %}
 
 
 {% if entry.adsurl %}

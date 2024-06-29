@@ -16,7 +16,7 @@ permalink: /about/
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name (吕建伟)}}</h3>
-  <h4><i>{{ member.info }}</i></h4>
+  <h6><i>{{ member.info }}</i></h6>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.ads %} <a href="{{ member.ads }}" target="_blank"><i class="ai ai-ads-square ai-3x"></i></a> {% endif %}
@@ -27,7 +27,7 @@ permalink: /about/
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
 
 <div class="rowl3">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/UAlogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px" />
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/UAlogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px; margin-right:10px; margin-top:10px;" />
   09/2014 - 03/2020, <strong>Doctor of Philosophy (Ph.D.)</strong> <br /> 
   Astronomy & Astrophysics, The University of Arizona <br /> 
   Supervisor: <a href="https://www.as.arizona.edu/people/faculty/george-h-rieke" target="_blank">Prof. George H. Rieke</a>, 
@@ -35,14 +35,14 @@ permalink: /about/
 </div>
 
 <div class="rowl3">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/SHAOlogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px" />
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/SHAOlogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px; margin-right:10px;" />
   09/2007 - 06/2011, <strong>Master of Science (M.S.)</strong> <br /> 
   Shanghai Astronomical Observatory, CAS <br /> 
   </p>
 </div>
 
 <div class="rowl3">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/USTClogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px" />
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/USTClogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px; margin-right:10px" />
   09/2007 - 06/2011, <strong>Bachelor of Science (B.S.)</strong> <br /> 
   Astronomy, The University of Science and Technology of China <br /> 
   </p>

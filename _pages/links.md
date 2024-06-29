@@ -31,3 +31,6 @@ iframe {
 </style>
 
 ## Links
+
+[IR line list (MPE)](https://www.mpe.mpg.de/ir/ISO/linelists/index.html) | 
+[IR line list (IPAC)](https://www.ipac.caltech.edu/iso/lws/ir_lines.html)

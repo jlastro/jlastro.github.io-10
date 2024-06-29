@@ -68,56 +68,7 @@ permalink: /about/
 </div>
 
 
-{% if site.data.appoint %}
 
-<div class="jumbotron">
-  <h3>Professional Appointments</h3>
-  <ul>
-    {% for appoint in site.data.appoint %}
-      <li>{{ appoint.name }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
-
-
-{% if site.data.grants %}
-
-<div class="jumbotron">
-  <h3>Grants</h3>
-  <ul>
-    {% for grant in site.data.grants %}
-      <li>{{ grant.name }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
-{% if site.data.awards %}
-
-<div class="jumbotron">
-  <h3>Honors and Awards</h3>
-  <ul>
-    {% for award in site.data.awards %}
-      <li>{{ award.name }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
-
-{% if site.data.outreach %}
-
-<div class="jumbotron">
-  <h3>Service and Outreach</h3>
-  <ul>
-    {% for outreach in site.data.outreach %}
-      <li>{{ outreach.name  }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
 
 {% if site.data.people %}
 

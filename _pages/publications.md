@@ -25,7 +25,7 @@ For a complete list of publications, check
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/word_cloud_2406.jpeg" width="80%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/word_cloud_2406.jpeg" width="60%"/><br/>
  <span style="font-size: 15px; color: yellow;">
 Research Keyword Cloud </span> <br/>
 </center>

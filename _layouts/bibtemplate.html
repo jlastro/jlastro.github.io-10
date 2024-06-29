@@ -40,11 +40,11 @@ pre{
 {% endif %}
 
 {% if entry.adsurl %}
-<a href="{{ entry.adsurl }}" target="_blank"><button class="btn-abstract"><i class="ai ai-ads" aria-hidden="true"></i>ARXIV</button></a>
+<a href="{{ entry.adsurl }}" target="_blank"><button class="btn-abstract"><i class="ai ai-ads" aria-hidden="true"></i>NASA/ADS</button></a>
 {% endif %}
 
 {% if entry.doi %}
-<a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn-primary btm-sm"><i class="ai ai-doi" aria-hidden="true"></i>DOI</button></a>
+<a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn-doi"><i class="ai ai-doi" aria-hidden="true"></i>DOI</button></a>
 {% endif %}
 
 {% if entry.eprint %}
@@ -52,7 +52,7 @@ pre{
 {% endif %}
 
 {% if entry.type == 'unpublished' or entry.type == 'article' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}
-<button class="btn btn-danger btm-sm"  onclick="toggleBibtex{{entry.key}}()">BIB</button>
+<button class="btn-bib"  onclick="toggleBibtex{{entry.key}}()">BIB</button>
 {% endif %}
 
 {% if entry.abstract %}

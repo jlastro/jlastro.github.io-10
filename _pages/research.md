@@ -73,22 +73,3 @@ Example description
 Example description
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>

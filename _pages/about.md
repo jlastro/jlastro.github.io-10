@@ -30,13 +30,13 @@ permalink: /about/
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/UAlogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px; margin-right:10px; margin-top:10px;" />
   09/2014 - 03/2020, <strong>Doctor of Philosophy (Ph.D.)</strong> <br /> 
   Astronomy & Astrophysics, The University of Arizona <br /> 
-  Supervisor: <a href="https://www.as.arizona.edu/people/faculty/george-h-rieke" target="_blank">Prof. George H. Rieke</a>, 
+  Supervisor: <a href="https://www.as.arizona.edu/people/faculty/george-h-rieke" target="_blank">Prof. George H. Rieke</a> <br /> 
   Thesis: <a href="https://repository.arizona.edu/handle/10150/636940" target="_blank">Demystifying the infrared emission of Type-1 AGNs from z∼0 to z∼6 </a></p>
 </div>
 
 <div class="rowl3">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/SHAOlogo.png" class="img-responsive" width="10%" style="float: left; border-radius:1px; margin-right:10px;" />
-  09/2007 - 06/2011, <strong>Master of Science (M.S.)</strong> <br /> 
+  09/2011 - 06/2014, <strong>Master of Science (M.S.)</strong> <br /> 
   Shanghai Astronomical Observatory, CAS <br /> 
   </p>
 </div>

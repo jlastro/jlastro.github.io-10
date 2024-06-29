@@ -35,9 +35,16 @@ pre{
 {% endfor %}
 {% endif %}
 
+
+
 {% if bibtest %}
 <a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.file }}" target="_blank"><button class="btn-pdf"><i class="fa fa-file-pdf-o fa-1x" aria-hidden="true"></i>PDF</button></a>
 {% endif %}
+
+{% if entry.title %}
+<b style='color:yellow'>{{ entry.title }}</b>
+{% endif %}
+
 
 {% if entry.adsurl %}
 <a href="{{ entry.adsurl }}" target="_blank"><button class="btn-abstract"><i class="ai ai-ads" aria-hidden="true"></i>NASA/ADS</button></a>

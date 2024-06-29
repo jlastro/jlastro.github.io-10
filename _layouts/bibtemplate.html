@@ -39,12 +39,16 @@ pre{
 <a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.file }}" target="_blank"><button class="btn-pdf"><i class="fa fa-file-pdf-o fa-1x" aria-hidden="true"></i>PDF</button></a>
 {% endif %}
 
+{% if entry.adsurl %}
+<a href="{{ entry.adsurl }}" target="_blank"><button class="btn-abstract"><i class="ai ai-ads" aria-hidden="true"></i>ARXIV</button></a>
+{% endif %}
+
 {% if entry.doi %}
-{% if entry.type == 'unpublished' %}
-<a href="{{ entry.doi | prepend: 'https://arxiv.org/abs/' }}" target="_blank"><button class="btn-arxiv"><i class="ai ai-arxiv" aria-hidden="true"></i>ARXIV</button></a>
-{% else %}
 <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn-primary btm-sm"><i class="ai ai-doi" aria-hidden="true"></i>DOI</button></a>
 {% endif %}
+
+{% if entry.eprint %}
+<a href="{{ entry.eprint | prepend: 'https://arxiv.org/abs/' }}" target="_blank"><button class="btn-arxiv"><i class="ai ai-arxiv" aria-hidden="true"></i>ARXIV</button></a>
 {% endif %}
 
 {% if entry.type == 'unpublished' or entry.type == 'article' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}

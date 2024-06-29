@@ -31,12 +31,8 @@ iframe {
 </style>
 
 ## Links
-[STARALT](http://catserver.ing.iac.es/staralt/)|
-[IRSA finder chart](https://irsa.ipac.caltech.edu/applications/finderchart/?__action=layout.showDropDown&)|
-[RAINBOW](https://arcoirix.cab.inta-csic.es/Rainbow_navigator_public/)|
+[STARALT](http://catserver.ing.iac.es/staralt/)| [IRSA finder chart](https://irsa.ipac.caltech.edu/applications/finderchart/?__action=layout.showDropDown&)| [RAINBOW](https://arcoirix.cab.inta-csic.es/Rainbow_navigator_public/)|
 
-[IR line list (MPE)](https://www.mpe.mpg.de/ir/ISO/linelists/index.html) | 
-[IR line list (IPAC)](https://www.ipac.caltech.edu/iso/lws/ir_lines.html) |
-[UV-optical line list](http://astronomy.nmsu.edu/drewski/tableofemissionlines.html)|
+[IR line list (MPE)](https://www.mpe.mpg.de/ir/ISO/linelists/index.html) | [IR line list (IPAC)](https://www.ipac.caltech.edu/iso/lws/ir_lines.html) | [UV-optical line list](http://astronomy.nmsu.edu/drewski/tableofemissionlines.html)|
 
 [Dust Models (Draine)](https://www.astro.princeton.edu/~draine/dust/dust.html)|

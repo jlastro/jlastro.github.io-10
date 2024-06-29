@@ -20,10 +20,12 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <div class="row">
 <center>
      <span style="font-size: 15px; color: yellow;">
-Research Keyword Cloud </span> <br/>
+Word Cloud from 1st-authored papers</span> <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/word_cloud_2406.jpeg" width="60%"/><br/>
 </center>
 </div>
+</div>
+</br>
 
 For a complete list of publications, check
 <a href="https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=jianwei+lyu&terms-0-field=author&classification-physics=y&classification-physics_archives=astro-ph&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"><button class="btn-doi"><i class="ai ai-arxiv" aria-hidden="true"></i> ArXiv </button></a>, 

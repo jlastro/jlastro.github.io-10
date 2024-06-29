@@ -33,4 +33,7 @@ iframe {
 ## Links
 
 [IR line list (MPE)](https://www.mpe.mpg.de/ir/ISO/linelists/index.html) | 
-[IR line list (IPAC)](https://www.ipac.caltech.edu/iso/lws/ir_lines.html)
+[IR line list (IPAC)](https://www.ipac.caltech.edu/iso/lws/ir_lines.html) |
+[UV-optical line list](http://astronomy.nmsu.edu/drewski/tableofemissionlines.html)|
+
+[Dust Models (Draine)](https://www.astro.princeton.edu/~draine/dust/dust.html)|

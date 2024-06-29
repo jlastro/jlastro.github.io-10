@@ -71,7 +71,7 @@ scholar:
   last_name: Doe
   first_name: [John]
 
-  style: american-institute-of-physics
+  style: citesty
   locale: en
 
   source: /assets/

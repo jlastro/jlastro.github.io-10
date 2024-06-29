@@ -41,12 +41,5 @@ Example description
 </div>
 
 
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/word_cloud_2406.jpeg" width="100%"/><br/>
- <span style="font-size: 15px; color: yellow;">
-Research Keyword Cloud </span> <br/>
-</center>
-</div>
+
 </div>

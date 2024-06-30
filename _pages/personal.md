@@ -86,9 +86,6 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet1.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet1.webp" alt="Forest" width="600" height="400">
 </a>
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
-</a>
 <div class="desc">Add a description of the image here</div>
 </div>
 </div>

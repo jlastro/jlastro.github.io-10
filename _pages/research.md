@@ -47,15 +47,17 @@ Example description
 </div>
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
+<div class="row">
+<div class="col-md-8 col-sm-12">
 <h4>AGN obscuration structures and IR properties</h4>
-<div class="col-sm-4">
+</div>
+Example description
+</div>
+<div class="col-md-4">
 <p><a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="right" alt="Lights" style="width:30%"></a>
 </p>
-</div>  
 </div>
-Example description
 </div>
 
 

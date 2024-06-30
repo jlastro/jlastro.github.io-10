@@ -55,7 +55,7 @@ Example description
 </div>
 <div class="col-md-4">
 <p><a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="right" alt="Lights" style="width:30%"></a>
+<img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="right" alt="Lights" style="width:100%"></a>
 </p>
 </div>
 </div>

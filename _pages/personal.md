@@ -170,7 +170,7 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> HDR composite image of total solar eclipse,(Missouri (April 8, 2024). Thanks Aigen for hosting me!
+<div class="desc"> HDR composite image of total solar eclipse, Missouri (April 8, 2024). Thanks Aigen for hosting me!
 </div>
 </div>
 </div>

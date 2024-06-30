@@ -29,7 +29,7 @@ interpretations of the observation.
 <a target="_blank" href="https://www.mdpi.com/2218-1997/8/6/304">
 <img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_environment.png" width="80%"/></a><br/>
  <span style="font-size: 15px; color: yellow;">
-Cartoon of AGN dusty environment at various scales (check <a href="https://www.mdpi.com/2218-1997/8/6/304">our review</a>) <br/>
+Cartoon of AGN dusty environment at various scales (check <a href="https://www.mdpi.com/2218-1997/8/6/304">our review</a>) </span><br/>
 </center>
 </div>
 

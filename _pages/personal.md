@@ -39,7 +39,7 @@ iframe {
 <img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Lights" style="width:100%">
 <div class="caption">
 <p>Lorem ipsum...</p>
-</div></a>
+</div>
 </div>
 </div>
 <div class="col-md-4">
@@ -48,7 +48,7 @@ iframe {
 <img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Nature" style="width:100%">
 <div class="caption">
 <p>Lorem ipsum...</p>
-</div></a>
+</div>
 </div>
 </div>
 <div class="col-md-4">
@@ -57,7 +57,7 @@ iframe {
 <img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Fjords" style="width:100%">
 <div class="caption">
 <p>Lorem ipsum...</p>
-</div></a>
+</div>
 </div>
 </div>
 </div>

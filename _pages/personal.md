@@ -86,6 +86,9 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet1.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet1.webp" alt="Forest" width="600" height="400">
 </a>
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+</a>
 <div class="desc">Add a description of the image here</div>
 </div>
 </div>
@@ -99,6 +102,71 @@ div.desc {
 </div>
 </div>
 
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4" alt="Mountains" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here</div>
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here</div>
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here</div>
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp">
+<img src="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here</div>
+</div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/meteor.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/meteor.jpeg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/tucson_ab.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tucson_ab.jpeg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here</div>
+</div>
+</div>
 
 
 <div class="clearfix"></div>

@@ -284,7 +284,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape1.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/landscape1.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Summer Milky Way over Kitt Peak National Observatory, AZ. (May 28, 2022)
+<div class="desc">Milky Way over Kitt Peak National Observatory, AZ. (May 28, 2022)
 </div>
 </div>
 </div>

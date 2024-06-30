@@ -79,7 +79,8 @@ div.desc {
 
 ## Personal
 
-
+<div class="jumbotron">
+<div class="row">
 
 <div class="responsive">
 <div class="gallery">
@@ -165,5 +166,6 @@ div.desc {
 </div>
 </div>
 
-
+</div>
+</div>
 <div class="clearfix"></div>

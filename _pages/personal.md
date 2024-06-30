@@ -227,8 +227,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Night Sky over two Magellan Telescopes, Chile (You can see both LMC and SMC as well the Milk Way, actually
-  the three are interacting with each other as a system)
+<div class="desc"> Night sky over two Magellan Telescopes, Chile (LM, SMC and Milk Way are seen together)
 </div>
 </div>
 </div>

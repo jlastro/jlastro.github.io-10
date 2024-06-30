@@ -46,12 +46,21 @@ Example description
 </div>
 </div>
 
+
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
+<div class="row">
 <h4>quasars and AGN in the early Universe</h4>
+<div class="col-sm-8 col-xs-12">
 Example description
 </div>
+<div class="col-sm-4">
+<a href="{{ site.url }}{{ site.baseurl }}/images/quasar.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/quasar.jpg" align="right" alt="Lights" style="width:100%"></a>
 </div>
+</div>
+</div>
+
+
 
 <div class="jumbotron">
 <div class="row">
@@ -68,9 +77,15 @@ Example description
 
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
+<div class="row">
 <h4>AGN-galaxy co-evolution</h4>
+<div class="col-sm-8 col-xs-12">
 Example description
+</div>
+<div class="col-sm-4">
+<a href="{{ site.url }}{{ site.baseurl }}/images/BH-galaxy.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BH-galaxy.png" align="right" alt="Lights" style="width:100%"></a>
+</div>
 </div>
 </div>
 
@@ -91,8 +106,14 @@ Example description
 
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
+<div class="row">
 <h4>Dust, PAH and star formation</h4>
+<div class="col-sm-8 col-xs-12">
 Example description
+</div>
+<div class="col-sm-4">
+<a href="{{ site.url }}{{ site.baseurl }}/images/m82_spitzer.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/m82_spitzer.png" align="right" alt="Lights" style="width:100%"></a>
+</div>
 </div>
 </div>

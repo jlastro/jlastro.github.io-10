@@ -131,8 +131,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Comet C/2021 A1 (Leonard), shot near Saguaro NP, Tucson AZ (Dec 27, 2021). This is how the
-  same comet looked like after its pass from the Sun.
+<div class="desc"> Comet C/2021 A1 Leonard  (Dec 27, 2021).
 </div>
 </div>
 </div>
@@ -167,7 +166,6 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 
 
 
-
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp">
@@ -178,26 +176,6 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 </div>
 </div>
 
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc"> Total lunar eclipse with a flying insect (Nov 08, 2022)
-</div>
-</div>
-</div>
-
-
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc"> Partial lunar eclipse
-</div>
-</div>
-</div>
 
 <div class="responsive">
 <div class="gallery">
@@ -220,6 +198,30 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 </div>
 </div>
 </div>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Total lunar eclipse with a flying insect (Nov 08, 2022)
+</div>
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Partial lunar eclipse
+</div>
+</div>
+</div>
+
+
 
 <div class="responsive">
 <div class="gallery">
@@ -247,8 +249,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/apod.jpg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/apod.jpg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> 2022 Tau Herculids meteor shower, taken at Kitt Peak. (May 30, 2022) Maybe my best-known photo since it is published 
-  on <a href="https://apod.nasa.gov/apod/ap220601.html">APOD</a>.
+<div class="desc"> 2022 Tau Herculids meteor shower, taken at Kitt Peak. (May 30, 2022)
 </div>
 </div>
 </div>

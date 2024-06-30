@@ -228,7 +228,8 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Night Sky over two Magellan Telescopes, Chile
+<div class="desc"> Night Sky over two Magellan Telescopes, Chile (You can see both LMC and SMC as well the Milk Way, actually
+  the three are interacting with each other as a system)
 </div>
 </div>
 </div>
@@ -271,7 +272,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/conj.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/conj.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Planets and Moon on the sky (March 20, 2020)
+<div class="desc"> Planets and Moon on the sky, Rillito Park, Tucson AZ. (March 20, 2020)
 </div>
 </div>
 </div>
@@ -285,7 +286,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape1.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/landscape1.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Night Sky over Kitt Peak National Observatory, AZ
+<div class="desc"> Summer Milky Way over Kitt Peak National Observatory, AZ. (May 28, 2022)
 </div>
 </div>
 </div>

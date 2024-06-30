@@ -14,6 +14,16 @@ I study supermassive black holes (SMBHs) and galaxies across the cosmic time
 with a focus on their infrared properties. 
 
 
+Unravelling the mysteries of SMBHs and their relationship with galaxies is a
+major mission in extragalactic astronomy. How do SMBH influence galaxy
+formation and evolution? What are the mechanisms behind their growth and
+interactions with surrounding matter? Addressing these questions requires a complete 
+census of the active galactic nuclei (AGN) and galaxies with the
+reasonable constraints on their properties. However, the existence of large
+amount of dust makes many systems obscured and greatly complicates the
+interpretations of the observed properties.
+
+
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/agn_dusty_environment.png" width="80%"/><br/>
@@ -23,15 +33,7 @@ Cartoon of AGN dusty environment at various scales </span> <br/><br/>
 </div>
 
 
-Unravelling the mysteries of SMBHs and their relationship with galaxies is a
-major mission in extragalactic astronomy. How do SMBH influence galaxy
-formation and evolution? What are the mechanisms behind their growth and
-interactions with surrounding matter? Addressing these questions requires a complete 
-census of the active galactic nuclei (AGN) and galaxies with the
-reasonable constraints on their properties. However, the existence of large
-amount of dust makes many systems obscured and greatly complicates the
-interpretations of the observed properties.
- 
+
 Unlike many astronomers who have been annoyed by dust, I take advantage of its
 IR emission to search and characterize AGN and their host systems with the
 combination of various data and techniques across the electromagnetic spectrum.

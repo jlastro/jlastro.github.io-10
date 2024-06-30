@@ -21,7 +21,7 @@ interactions with surrounding matter? Addressing these questions requires a comp
 census of the active galactic nuclei (AGN) and galaxies with the
 reasonable constraints on their properties. However, the existence of large
 amount of dust makes many systems obscured and greatly complicates the
-interpretations of the observed properties.
+interpretations of the observation.
 
 
 <div class="row">

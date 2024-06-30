@@ -82,14 +82,18 @@ div.desc {
 <div class="jumbotron">
 <div class="row">
 <h4>My life outside academia</h4>
-<div class="col-sm-4 col-xs-12">
-Example description
-</div>
+
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/running.jpeg" align="right" alt="Lights" style="width:100%">
+</div
+<div class="col-sm-4 col-xs-12">
+Tucson is a great place for outdoor acitivites and I enjoy hiking and running. For the latter, I have been training for marathon since COVID and aiming to break the 3-hour time limit (my current record is 3h24m, M2B 2024). I also have the long time hobby of drawing and painting (In high school, I have ranked 10/10, the highest level, in sketch and 8/10 in color-painting in some rank examination for amateur artists in China). Sometimes, I also watch anime and sci-fi.
+</br>  
+Back to astronomy, I have been a stargazer since the age of sevenish (?). The first telescope I have used was made with paper tubes and plastic lens by myself (and now I think it cannot be even focused properly). Later on my parents bought me some real telescopes and I enjoyed 
+  the numerous nights I spent under the night sky when I was still in Xining. During my childhood, I did a lot of astronomical sketches and shot Sun/Moon/planets/stars with photographics films. Although a lot of things have changed, I still enjoy amateur astronomy today and drive to some remote, dark places to watch the stars and muse about life and the Universe. In addition, I also chase total solar eclipses and have successfully observed four events (2008, 2009, 2017, 2024). Finally, I conduct astrophotography on various topics (see example below) and have contribued to the famous <a href="https://apod.nasa.gov/apod/ap220601.html"> APOD (Astronomy Picture of the Day)</a>.
 </div>
 <div class="col-sm-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/eclipse24_2.jpeg" align="right" alt="Lights" style="width:100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/eclipse24_2.jpg" align="right" alt="Lights" style="width:100%">
 </div>
 </div>
 </div>

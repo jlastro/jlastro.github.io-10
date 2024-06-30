@@ -94,7 +94,7 @@ Back to astronomy, I have been a stargazer since the age of sevenish (?). The fi
 </div>
 <div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/eclipse24_2.jpg" align="right" alt="Lights" style="width:100%">
-</div
+</div>
 
 </div>
 </div>
@@ -149,7 +149,7 @@ Back to astronomy, I have been a stargazer since the age of sevenish (?). The fi
 <div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ, July 09, 2020
 </div>
 </div>
-</div
+</div>
 
 <div class="responsive">
 <div class="gallery">

@@ -41,9 +41,7 @@ Example description
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg" align="right" alt="Lights" style="width:50%"></a>
-  <a href="{{ site.url }}{{ site.baseurl }}/images/sample_comp.jpg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/sample_comp.jpg" align="right" alt="Lights" style="width:50%"></a>
+<img src="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg" align="right" alt="Lights" style="width:100%"></a>
 </div>
 </div>
 </div>

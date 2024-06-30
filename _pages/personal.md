@@ -154,8 +154,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_collage.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet_collage.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Comet C/2020 F3 (NEOWISE, top) and C/2021 A1 (Leonard, bottom), as seen in the sky. This is more or less
-  similar to what the human eyes can see.
+<div class="desc"> Comet C/2020 F3 (NEOWISE, top) and C/2021 A1 (Leonard, bottom), with some landscape.
 </div>
 </div>
 </div>
@@ -171,7 +170,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> HDR composite image of total solar eclipse, shot in Missouri (April 8, 2024). Thanks Aigen for hosting me!
+<div class="desc"> HDR composite image of total solar eclipse,(Missouri (April 8, 2024). Thanks Aigen for hosting me!
 </div>
 </div>
 </div>

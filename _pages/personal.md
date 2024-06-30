@@ -32,36 +32,35 @@ iframe {
 
 ## Personal
 
-
 <div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="{ site.baseurl }}/images/ngc4151-cartoon.png">
-        <img src="{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Lights" style="width:100%">
-        <div class="caption">
-          <p>Lorem ipsum...</p>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="{ site.baseurl }}/images/ngc4151-cartoon.png">
-        <img src="{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Nature" style="width:100%">
-        <div class="caption">
-          <p>Lorem ipsum...</p>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="{ site.baseurl }}/images/ngc4151-cartoon.png">
-        <img src="{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Fjords" style="width:100%">
-        <div class="caption">
-          <p>Lorem ipsum...</p>
-        </div>
-      </a>
-    </div>
-  </div>
+<div class="col-md-4">
+<div class="thumbnail">
+<a href="{ site.baseurl }}/images/ngc4151-cartoon.png">
+<img src="{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Lights" style="width:100%">
+<div class="caption">
+<p>Lorem ipsum...</p>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+<a href="{ site.baseurl }}/images/ngc4151-cartoon.png">
+<img src="{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Nature" style="width:100%">
+<div class="caption">
+<p>Lorem ipsum...</p>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+<a href="{ site.baseurl }}/images/ngc4151-cartoon.png">
+<img src="{ site.baseurl }}/images/ngc4151-cartoon.png" alt="Fjords" style="width:100%">
+<div class="caption">
+<p>Lorem ipsum...</p>
+</div>
+</a>
+</div>
+</div>
 </div>

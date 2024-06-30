@@ -49,17 +49,15 @@ Example description
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>AGN obscuration structures and IR properties</h4>
-
-<div class="thumbnail">
-<a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="left" alt="Lights" style="width:30%"></a>
-<div class="caption">
-<p>Lorem ipsum...</p>
-</div>
+<div class="col-sm-4">
+<p><a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="right" alt="Lights" style="width:30%"></a>
+</p>
+</div>  
 </div>
 Example description
 </div>
-</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">

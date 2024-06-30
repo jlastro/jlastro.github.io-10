@@ -85,7 +85,7 @@ div.desc {
 
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/running.jpeg" align="right" alt="Lights" style="width:100%">
-</div
+</div>
 <div class="col-sm-4 col-xs-12">
 Tucson is a great place for outdoor acitivites and I enjoy hiking and running. For the latter, I have been training for marathon since COVID and aiming to break the 3-hour time limit (my current record is 3h24m, M2B 2024). I also have the long time hobby of drawing and painting (In high school, I have ranked 10/10, the highest level, in sketch and 8/10 in color-painting in some rank examination for amateur artists in China). Sometimes, I also watch anime and sci-fi.
 </br>  

@@ -181,7 +181,7 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Messier 31 the Andromeda Galaxy *Aug 08, 2017). This is the first light image of my small telescope, no tracking
+<div class="desc"> Messier 31 the Andromeda Galaxy (Aug 08, 2017). This is the first light image of my small telescope, no tracking
   was conducted with very basic reduction.
 </div>
 </div>

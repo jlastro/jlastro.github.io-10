@@ -52,9 +52,8 @@ Example description
 <h4>AGN obscuration structures and IR properties</h4>
 Example description
 <div class="col-sm-4">
-<p><a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
+<a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="right" alt="Lights" style="width:100%"></a>
-</p>
 </div>
 </div>
 </div>

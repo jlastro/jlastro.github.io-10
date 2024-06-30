@@ -81,7 +81,7 @@ div.desc {
 
 <div class="jumbotron">
 <div class="row">
-<h4>My life outside academic</h4>
+<h4>My life outside academia</h4>
 <div class="col-sm-4 col-xs-12">
 Example description
 </div>

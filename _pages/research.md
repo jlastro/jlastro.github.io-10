@@ -32,10 +32,19 @@ iframe {
 
 ## Research
 
+
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
+<div class="row">
 <h4>AGN demographics across cosmic time</h4>
+<div class="col-sm-8 col-xs-12">
 Example description
+</div>
+<div class="col-sm-4">
+<a href="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg" align="right" alt="Lights" style="width:50%"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/images/sample_comp.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/sample_comp.jpg" align="right" alt="Lights" style="width:50%"></a>
+</div>
 </div>
 </div>
 
@@ -67,12 +76,21 @@ Example description
 </div>
 </div>
 
+
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
+<div class="row">
 <h4>IR time-domain astronomy</h4>
+<div class="col-sm-8 col-xs-12">
 Example description
 </div>
+<div class="col-sm-4">
+<a href="{{ site.url }}{{ site.baseurl }}/images/dust-rever.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/dust-rever.png" align="right" alt="Lights" style="width:100%"></a>
 </div>
+</div>
+</div>
+
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">

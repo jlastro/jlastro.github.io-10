@@ -37,7 +37,11 @@ iframe {
 <div class="row">
 <h4>AGN demographics across cosmic time</h4>
 <div class="col-sm-8 col-xs-12">
-Example description
+Supermassive black holes (SMBHs) are found at the centers of most galaxies and are believed to shape the galaxy evolution during the active galactic nuclei (AGN) phase. However, as pointed out by the [ASTRO2020 Decadal Survey](https://nap.nationalacademies.org/catalog/26141/pathways-to-discovery-in-astronomy-and-astrophysics-for-the-2020s): "the cosmic census of AGNs is currently patch, which limits our understanding of the co-evolution of galaxies and their SMBHs."
+
+With the successfully launch and operation of JWST, especially the Mid-IR Instrument (MIRI), we have entered a new era. I have led a comprehensive search of the AGN population across the cosmic time in the GOODS/HUDF regions with a combination of SMILES/MIRI and JADES/NIRCam data (see paper). We have demonstrated the new discovery space enabled by JWST/MIRI and report huge progresses in the search of obscured AGNs in normal galaxies, dwarf galaxies and high-z Unvierse. Before that, I have also conducted search of AGNs with the deepest X-ray, mid-IR and radio data in the pre-JWST era (see paper).
+
+Looking ahead, as a co-PI of the [COMOS-3D program](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5893K/abstract), we will carry out a 500 armin^2 MIRI survey with NIRCam image and wide-field-slitless spectrosopcy observations in COMOS-Web, where huge progresses are expected for the search and characterization of the AGN population across cosmic time.
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg">

@@ -87,7 +87,7 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet1.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet1.webp" alt="Forest" width="600" height="400">
 </a>
-<div class="desc"> Comet C/2021 A1 Leonard
+<div class="desc"> Comet C/2021 A1 Leonard (processed based on the images on its right)
 </div>
 </div>
 </div>
@@ -97,7 +97,8 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ, July 09, 2020
+<div class="desc"> Comet C/2021 A1 (Leonard), shot near Saguaro NP, Tucson AZ (Dec 27, 2021). This is how the
+  same comet looked like after its pass from the Sun.
 </div>
 </div>
 </div>
@@ -113,6 +114,31 @@ div.desc {
 </div>
 
 
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ, July 09, 2020
+</div>
+</div>
+</div
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_collape.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Comet C/2020 F3 (NEOWISE, top) and C/2021 A1 (Leonard, bottom), as seen in the sky. This is more or less
+  similar to what the human eyes can see.
+</div>
+</div>
+</div>
+
+
+
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp">
@@ -125,6 +151,16 @@ div.desc {
 </div>
 
 
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Messier 31 the Andromeda Galaxy *Aug 08, 2017). This is the first light image of my small telescope, no tracking
+  was conducted with very basic reduction.
+</div>
+</div>
+</div>
 
 
 
@@ -133,7 +169,7 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/eclipse2024.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Composite of total solar eclipse 2024, shot in Missouri
+<div class="desc"> HDR composite image of total solar eclipse, shot in Missouri (April 8, 2024). Thanks Aigen for hosting me!
 </div>
 </div>
 </div>
@@ -143,7 +179,18 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Total lunar eclipse with a flying insect, Nov 08, 2022
+<div class="desc"> Total lunar eclipse with a flying insect (Nov 08, 2022)
+</div>
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Partial lunar eclipse
 </div>
 </div>
 </div>
@@ -153,7 +200,7 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/meteor.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/meteor.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Perseid Meteor shower
+<div class="desc"> 2021 Perseid Meteor shower
 </div>
 </div>
 </div>
@@ -163,8 +210,8 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/apod.jpg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/apod.jpg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Tau Herculids meteor shower taken at Kitt Peak. Maybe my best-known photo since it is published 
-  on APOD.
+<div class="desc"> 2022 Tau Herculids meteor shower, taken at Kitt Peak. (May 30, 2022) Maybe my best-known photo since it is published 
+  on <a href="https://apod.nasa.gov/apod/ap220601.html">APOD</a>.
 </div>
 </div>
 </div>
@@ -176,7 +223,7 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/tucson_ab.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/tucson_ab.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Aurora Borealis captured in Saguaro NP West, near Tucson AZ. May 11, 2024
+<div class="desc"> Aurora Borealis captured in Saguaro NP West, near Tucson AZ. (May 11, 2024)
 </div>
 </div>
 </div>
@@ -186,7 +233,7 @@ div.desc {
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/conj.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/conj.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Planets and Moon on the sky, March 20, 2020
+<div class="desc"> Planets and Moon on the sky (March 20, 2020)
 </div>
 </div>
 </div>

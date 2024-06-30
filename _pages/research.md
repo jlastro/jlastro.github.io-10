@@ -78,7 +78,7 @@ Example description
 
 <div class="jumbotron">
 <div class="row">
-<h4>AGN-galaxy co-evolution</h4>
+<h4>BH-galaxy co-evolution</h4>
 <div class="col-sm-8 col-xs-12">
 Example description
 </div>

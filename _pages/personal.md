@@ -104,9 +104,9 @@ div.desc {
 
 <div class="responsive">
 <div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4" alt="Mountains" width="600" height="400">
-</a>
+<video width="600" height="400" autoplay loop>
+<source src="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4">
+</video>
 <div class="desc">Add a description of the image here
 </div>
 </div>
@@ -159,6 +159,18 @@ div.desc {
 
 <div class="responsive">
 <div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/apod.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/apod.jpg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc">Add a description of the image here
+</div>
+</div>
+</div>
+
+
+
+<div class="responsive">
+<div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/tucson_ab.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/tucson_ab.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
@@ -177,15 +189,7 @@ div.desc {
 </div>
 </div>
 
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/conj.webp">
-<img src="{{ site.url }}{{ site.baseurl }}/images/conj.webp" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc">Add a description of the image here
-</div>
-</div>
-</div>
+
 
 <div class="responsive">
 <div class="gallery">

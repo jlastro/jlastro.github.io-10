@@ -90,10 +90,10 @@ div.desc {
 <div class="col-sm-9 col-xs-12">
 Tucson is a great place for outdoor acitivites and I enjoy hiking and running. Mt Lemmoon and Saguaro National Park (West) are the most common places you may find me hiking/walking. For running, I have been training for marathon since COVID and aiming to break the 3-hour time limit to be run on Boston sometime in the near future (my current record is 3h24m, M2B 2024). I also have the long time hobby of drawing and painting (In high school, I have ranked 10/10, the highest level, in sketch and 8/10 in color-painting in some rank examination for amateur artists in China). Sometimes, I also watch anime and sci-fi.
 
-I enjoy traveling, especially for the nature scenery. Up to now, I have visited around 20 National Parks/Forests in US. For various reasons, I have visited many cold places in winter, including Khabarovsk in Russia, Alaska in US, and Mt Everest Base Camp in Tibet. For the last one, I arrived at the starting point of the mountain path (elevation about 5300 meters, keep on going I might arrive at the peak of Mt. Everest) and slept one night in a Guesthouse near the Buddhist temple with the highest elevation in this world (Rongbuk Monastery). It was so quiet that you could actually hear the trembling sounds of small rocks in the wind echoing among the mountains and the night sky there was so crystal clear that the planet was bright enough to cast shadows! 
+I enjoy traveling, especially for the nature scenery. Up to now, I have visited around 20 National Parks/Forests in US. For various reasons, I have visited many cold places in winter, including Khabarovsk in Russia, Alaska in US, and Mt Everest Base Camp in Tibet. For the last one, I arrived at the starting point of the mountain path (elevation about 5300 meters, keep on going I might arrive at the peak of Mt. Everest) and slept one night in a Guesthouse near the Buddhist temple with the highest elevation in this world (<a href="https://en.wikipedia.org/wiki/Rongbuk_Monastery">Rongbuk Monastery</a>). It was so quiet that you could actually hear the trembling sounds of small rocks in the wind echoing among the mountains and the night sky there was so crystal clear that the planet was bright enough to cast shadows! 
  
 Back to astronomy, I have been a stargazer around sevenish (?). The first telescope I have used was made with paper tubes and plastic lens by myself. Later on my parents bought me some real telescopes and I enjoyed 
-  the numerous nights I spent under the night sky when I was still in Xining. During my childhood, I did a lot of astronomical sketches and shot Sun/Moon/planets/stars with photographics films. Although a lot of things have changed, I still enjoy amateur astronomy today and drive to some remote, dark places once in a while, to watch the stars and muse about life and the Universe. In addition, I also chase total solar eclipses and have successfully observed four events (2008, 2009, 2017, 2024). Finally, I conduct astrophotography on various topics (see example below) and have contribued to the famous <a href="https://apod.nasa.gov/apod/ap220601.html"> APOD (Astronomy Picture of the Day)</a>.
+  the numerous nights I spent under the night sky when I was still in <a href="https://en.wikipedia.org/wiki/Xining">Xining</a>. During my childhood, I did a lot of astronomical sketches and shot Sun/Moon/planets/stars with photographics films. Although a lot of things have changed, I still enjoy amateur astronomy today and drive to some remote, dark places once in a while, to watch the stars and muse about life and the Universe. In addition, I also <a href="https://www.eclipse-chaser-log.com/eclipse-log/336">chase total solar eclipses</a> and have successfully observed four events (2008, 2009, 2017, 2024). Finally, I conduct astrophotography on various topics (see example below) and have contribued to the famous <a href="https://apod.nasa.gov/apod/ap220601.html"> APOD (Astronomy Picture of the Day)</a>.
 </div>
 </div>
 </div>
@@ -152,8 +152,8 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 
 <div class="responsive">
 <div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_collage.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet_collage.png" alt="Northern Lights" width="600" height="400">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_collage.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet_collage.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Comet C/2020 F3 (NEOWISE, top) and C/2021 A1 (Leonard, bottom), as seen in the sky. This is more or less
   similar to what the human eyes can see.

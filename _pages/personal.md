@@ -81,7 +81,25 @@ div.desc {
 
 <div class="jumbotron">
 <div class="row">
-<h4>Some selections of my astrophotography pictures </h4>
+<h4>My life outside academic</h4>
+<div class="col-sm-4 col-xs-12">
+Example description
+</div>
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/running.jpeg" align="right" alt="Lights" style="width:100%">
+</div>
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/eclipse24_2.jpeg" align="right" alt="Lights" style="width:100%">
+</div>
+</div>
+</div>
+
+
+
+
+<div class="jumbotron">
+<div class="row">
+<h4>Selections of my astrophotography pictures </h4>
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet1.webp">
@@ -92,16 +110,6 @@ div.desc {
 </div>
 </div>
 
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc"> Comet C/2021 A1 (Leonard), shot near Saguaro NP, Tucson AZ (Dec 27, 2021). This is how the
-  same comet looked like after its pass from the Sun.
-</div>
-</div>
-</div>
 
 <div class="responsive">
 <div class="gallery">
@@ -114,12 +122,24 @@ div.desc {
 </div>
 
 
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Comet C/2021 A1 (Leonard), shot near Saguaro NP, Tucson AZ (Dec 27, 2021). This is how the
+  same comet looked like after its pass from the Sun.
+</div>
+</div>
+</div>
+
+
 
 
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ, July 09, 2020
 </div>
@@ -128,8 +148,8 @@ div.desc {
 
 <div class="responsive">
 <div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_collape.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet_collage.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet_collage.png" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Comet C/2020 F3 (NEOWISE, top) and C/2021 A1 (Leonard, bottom), as seen in the sky. This is more or less
   similar to what the human eyes can see.
@@ -154,7 +174,7 @@ div.desc {
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp" alt="Northern Lights" width="600" height="400">
+<img src="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Messier 31 the Andromeda Galaxy *Aug 08, 2017). This is the first light image of my small telescope, no tracking
   was conducted with very basic reduction.
@@ -188,7 +208,7 @@ div.desc {
 <div class="responsive">
 <div class="gallery">
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse.jpeg" alt="Northern Lights" width="600" height="400">
+<img src="{{ site.url }}{{ site.baseurl }}/images/lunar_eclipse_partial.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Partial lunar eclipse
 </div>

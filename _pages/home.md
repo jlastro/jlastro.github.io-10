@@ -58,6 +58,6 @@ since I was a child.  Today I still enjoy stargazing once in a while. In
 particular, I am [an eclipse
 chaser](https://www.eclipse-chaser-log.com/eclipse-log/336) and [conduct
 astrophotography](https://apod.nasa.gov/apod/ap220601.html).  Besides watching
-the sky, I am also a fan of drawing & painting (both paper and digital),
-running (marathon races included), anime and sci-fi. More about these
+the sky, I am also a fan of drawing & painting,
+endurance running, anime and sci-fi. More about these
 non-work-related things can be checked in [personal](/personal) page.

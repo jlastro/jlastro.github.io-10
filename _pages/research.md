@@ -59,6 +59,7 @@ Example description
 </div>
 </div>
 </div>
+</a>
 Example description
 </div>
 </div>

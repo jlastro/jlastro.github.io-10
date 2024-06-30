@@ -49,12 +49,12 @@ Example description
 <div class="jumbotron">
 <div class="row">
 <h4>AGN obscuration structures and IR properties</h4>
+<div class="col-sm-8 col-xs-12">
+Example description
+</div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png" align="right" alt="Lights" style="width:100%"></a>
-</div>
-<div class="col-sm-8 col-xs-12">
-Example description
 </div>
 </div>
 </div>

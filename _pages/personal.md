@@ -128,8 +128,8 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 
 <div class="responsive">
 <div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Comet C/2021 A1 (Leonard), shot near Saguaro NP, Tucson AZ (Dec 27, 2021). This is how the
   same comet looked like after its pass from the Sun.
@@ -142,8 +142,8 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 
 <div class="responsive">
 <div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/comet3.jpeg" alt="Northern Lights" width="600" height="400">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
 </a>
 <div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ, July 09, 2020
 </div>
@@ -163,28 +163,8 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 
 
 
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp">
-<img src="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc"> Large Magellanic Cloud (LMC) and Small Magellanic Cloud (SMC), shot near Magellan Telescopes during the
-  observing run
-</div>
-</div>
-</div>
 
 
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg">
-<img src="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc"> Messier 31 the Andromeda Galaxy *Aug 08, 2017). This is the first light image of my small telescope, no tracking
-  was conducted with very basic reduction.
-</div>
-</div>
-</div>
 
 
 
@@ -218,6 +198,39 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 </div>
 </div>
 </div>
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Messier 31 the Andromeda Galaxy *Aug 08, 2017). This is the first light image of my small telescope, no tracking
+  was conducted with very basic reduction.
+</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp">
+<img src="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Large Magellanic Cloud (LMC) and Small Magellanic Cloud (SMC), shot near Magellan Telescopes during the
+  observing run
+</div>
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp">
+<img src="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp" alt="Northern Lights" width="600" height="400">
+</a>
+<div class="desc"> Night Sky over two Magellan Telescopes, Chile
+</div>
+</div>
+</div>
+
 
 <div class="responsive">
 <div class="gallery">
@@ -264,15 +277,7 @@ Back to astronomy, I have been a stargazer around sevenish (?). The first telesc
 
 
 
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp">
-<img src="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp" alt="Northern Lights" width="600" height="400">
-</a>
-<div class="desc"> Night Sky over two Magellan Telescopes, Chile
-</div>
-</div>
-</div>
+
 
 <div class="responsive">
 <div class="gallery">

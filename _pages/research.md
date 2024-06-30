@@ -51,7 +51,7 @@ Example description
 <div class="row">
 <h4>quasars and AGN in the early Universe</h4>
 <div class="col-sm-8 col-xs-12">
-Example description
+(in prep)
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/quasar.jpg">
@@ -109,11 +109,11 @@ Example description
 <div class="row">
 <h4>Dust, PAH and star formation</h4>
 <div class="col-sm-8 col-xs-12">
-Example description
+(in prep)
 </div>
 <div class="col-sm-4">
-<a href="{{ site.url }}{{ site.baseurl }}/images/m82_spitzer.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/m82_spitzer.png" align="right" alt="Lights" style="width:100%"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/images/m82_spitzer.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/m82_spitzer.jpg" align="right" alt="Lights" style="width:100%"></a>
 </div>
 </div>
 </div>

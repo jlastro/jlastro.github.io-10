@@ -104,7 +104,7 @@ div.desc {
 
 <div class="responsive">
 <div class="gallery">
-<video width="600" height="400" autoplay loop>
+<video width="226" height="98" autoplay loop>
 <source src="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4" type="video/mp4">
 </video>
 <div class="desc">Add a description of the image here

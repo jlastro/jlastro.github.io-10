@@ -41,7 +41,7 @@ Supermassive black holes (SMBHs) are found at the centers of most galaxies and a
 
 With the successfully launch and operation of JWST, we have entered a new era. I have led a comprehensive search of the AGN population across the cosmic time in the GOODS/HUDF regions with a combination of SMILES/MIRI and JADES/NIRCam data (see [paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..229L)). We have demonstrated the new discovery space enabled by JWST/MIRI and report huge progresses in the search of obscured AGNs in normal galaxies, dwarf galaxies and high-z Unvierse. Before that, I have also conducted AGN identifications with the deepest X-ray, mid-IR and radio data in the pre-JWST era (see [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..191L)), showing that no single band or technique is close to reach a complete AGN sample.
 
-Looking ahead, as a co-PI of the [COMOS-3D program](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5893K/abstract), we will carry out a 500 armin^2 MIRI survey with NIRCam image and wide-field-slitless spectrosopcy observations in COMOS-Web. Stay tuned for the huge progresses for the search and characterization of the AGN population across cosmic time from this large program!
+Looking ahead, as a co-PI of the [COSMOS-3D program](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5893K/abstract), we will carry out a 500 armin^2 MIRI survey with NIRCam image and wide-field-slitless spectrosopcy observations in the COSMOS field. Stay tuned for the huge progresses for the search and characterization of the AGN population across cosmic time from this large legacy program!
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/survey_showcase.jpg">

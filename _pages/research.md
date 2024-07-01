@@ -76,7 +76,7 @@ The AGN phenomenon is commonly associated with large amount of gaseous and dusty
 During my PhD and post-doc years, I have conducted a comprehensive study of AGN IR SEDs from z~0 to z~6 and developed a semi-empirical framework to
 characterize the AGN broad-band IR emission. This includes the characterization of AGN intrinsic IR SED variations (see [paper](https://ui.adsabs.harvard.edu/abs/2017ApJ...835..257L)), the AGN-heated dust far-IR SED shape (see [paper](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...76L)), the role of polar dust, or narrow-line-region dust (see [paper](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...92L), [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..31L)). In addition, we also probed the structures of AGN dust torus through near- to mid-IR dust reverberation mapping techniques (see [paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..126L), [paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..126L)).
 
-In 2022, we wrote a comprehensive review on this topic and illustrated how the various observations of different AGN populations across the cosmic time can be reconciled together (see [paper](https://ui.adsabs.harvard.edu/abs/2022Univ....8..304L)).
+In 2022, we wrote a comprehensive review on this topic and illustrated how the various IR observations of different AGN populations across the cosmic time can be reconciled together (see [paper](https://ui.adsabs.harvard.edu/abs/2022Univ....8..304L)).
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">

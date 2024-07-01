@@ -51,14 +51,7 @@ simulations and run complicated models on supercomputers to explain the observat
 You can learn more in the [research](/research) page.
 
 
+I grew up in a less-developed [city](https://en.wikipedia.org/wiki/Xining) in western China, where light pollution was minimal, 
+fostering my lifelong passion for astronomy since childhood. Even today, I find joy in stargazing occasionally, with a 
+particular enthusiasm for [chasing total solar eclipses](https://www.eclipse-chaser-log.com/eclipse-log/336) and [practicing astrophotography](https://apod.nasa.gov/apod/ap220601.html). Besides amateur astronomy, my interests include drawing, painting, endurance running, anime, and sci-fi. For more about my non-work-related life, please visit my [personal](/personal) page.
 
-
-I grew up in an under-developed [city](https://en.wikipedia.org/wiki/Xining)
-with low light polution in western China and have been interested in astronomy
-since I was a child.  Today I still enjoy stargazing once in a while. In
-particular, I am [an eclipse
-chaser](https://www.eclipse-chaser-log.com/eclipse-log/336) and [conduct
-astrophotography](https://apod.nasa.gov/apod/ap220601.html).  Besides watching
-the sky, I am also a fan of drawing & painting,
-endurance running, anime and sci-fi. More about these
-non-work-related things can be checked in [personal](/personal) page.

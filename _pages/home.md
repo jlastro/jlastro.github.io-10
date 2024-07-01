@@ -18,7 +18,7 @@ Unravelling the mysteries of SMBHs and their relationship with galaxies is a
 major mission in extragalactic astronomy. How do SMBH influence galaxy
 formation and evolution? What are the mechanisms behind their growth and
 interactions with surrounding matter? Addressing these questions requires a complete 
-census of the active galactic nuclei (AGN) and galaxies with the
+census of the active galactic nuclei (AGN) and galaxies with
 reasonable constraints on their properties. However, the existence of large
 amount of dust makes many systems obscured and greatly complicates the
 interpretations of the observation.

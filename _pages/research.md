@@ -39,7 +39,7 @@ iframe {
 <div class="col-sm-8 col-xs-12">
 Supermassive black holes (SMBHs) are found at the centers of most galaxies and are believed to shape the galaxy evolution during the active galactic nuclei (AGN) phase. However, as pointed out by the [ASTRO2020 Decadal Survey](https://nap.nationalacademies.org/catalog/26141/pathways-to-discovery-in-astronomy-and-astrophysics-for-the-2020s): "the cosmic census of AGNs is currently patch, which limits our understanding of the co-evolution of galaxies and their SMBHs."
 
-With the successfully launch and operation of JWST, we have entered a new era. I have led a comprehensive search of the AGN population across the cosmic time in the GOODS/HUDF regions with a combination of SMILES/MIRI and JADES/NIRCam data (see [paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..229L)). We have demonstrated the new discovery space enabled by JWST/MIRI and report huge progresses in the search of obscured AGNs in normal galaxies, dwarf galaxies and high-z Unvierse. Before that, I have also conducted search of AGNs with the deepest X-ray, mid-IR and radio data in the pre-JWST era (see [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..191L)), showing that no single band or technique can select a complete AGN sample.
+With the successfully launch and operation of JWST, we have entered a new era. I have led a comprehensive search of the AGN population across the cosmic time in the GOODS/HUDF regions with a combination of SMILES/MIRI and JADES/NIRCam data (see [paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..229L)). We have demonstrated the new discovery space enabled by JWST/MIRI and report huge progresses in the search of obscured AGNs in normal galaxies, dwarf galaxies and high-z Unvierse. Before that, I have also conducted AGN identifications with the deepest X-ray, mid-IR and radio data in the pre-JWST era (see [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..191L)), showing that no single band or technique is close to reach a complete AGN sample.
 
 Looking ahead, as a co-PI of the [COMOS-3D program](https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5893K/abstract), we will carry out a 500 armin^2 MIRI survey with NIRCam image and wide-field-slitless spectrosopcy observations in COMOS-Web. Stay tuned for the huge progresses for the search and characterization of the AGN population across cosmic time from this large program!
 </div>
@@ -90,7 +90,7 @@ In 2022, we wrote a comprehensive review on this topic and illustrated how the v
 <div class="row">
 <h4>BH-galaxy co-evolution</h4>
 <div class="col-sm-8 col-xs-12">
-(coming later)
+(various projects in prep., please come back later)
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/BH-galaxy.png">

@@ -55,7 +55,7 @@ Looking ahead, as a co-PI of the [COMOS-3D program](https://ui.adsabs.harvard.ed
 <div class="row">
 <h4>quasars and AGN in the early Universe</h4>
 <div class="col-sm-8 col-xs-12">
-As the brightnest AGNs, quasars can be seen in the very distant Universe. What are the properties of the first generations of quasars and their host galaxies? How to understand their connections with other galaxy populations later on? In the pre-JWST era, I have studied the IR spectral energy distributions (SED) of quasars at z>5 and inferred the typical host galaxy stellar masses of these quasars through a noval method (see [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..191L)). I have also involved the study of some brightest obscured AGN with Spitzer and ALMA observations (see [paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4609E)). With new data obtained with JWST, we begin to directly study
+As the brightnest AGNs, quasars can be seen in the very distant Universe. What are the properties of the first generations of quasars and their host galaxies? How to understand their connections with other galaxy populations later on? In the pre-JWST era, I have studied the IR spectral energy distributions (SED) of quasars at z>5 and inferred the typical host galaxy stellar masses of these quasars through a noval method (see [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..191L)). I have also contribued to the study of some brightest obscured AGN with Spitzer and ALMA observations in the re-ionizaiton era (see [paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4609E)). With new data obtained with JWST, we begin to directly study
 the rest-frame optical properties of high-z quasar and their host galaxies with NIRCam and NIRSpec observations (e.g., [paper 1](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..180S), [paper 2](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..180S)).
 </div>
 <div class="col-sm-4">
@@ -71,10 +71,12 @@ the rest-frame optical properties of high-z quasar and their host galaxies with 
 <div class="row">
 <h4>AGN obscuration structures and IR properties</h4>
 <div class="col-sm-8 col-xs-12">
+The AGN phenomenon is commonly associated with large amount of gaseous and dusty material surroundning it. This component, also known as torus, bridges the black hole accretion and the host galaxy interstellar medium. Due to the limited spatial resolutions of IR observations, besides a few very nearby objects, we cannot directly spatially reveal this obscuration structure and thus our knowledge is very limited. 
+
 During my PhD and post-doc years, I have conducted a comprehensive study of AGN IR SEDs from z~0 to z~6 and developed a semi-empirical framework to
 characterize the AGN broad-band IR emission. This includes the characterization of AGN intrinsic IR SED variations (see [paper](https://ui.adsabs.harvard.edu/abs/2017ApJ...835..257L)), the AGN-heated dust far-IR SED shape (see [paper](https://ui.adsabs.harvard.edu/abs/2017ApJ...841...76L)), the role of polar dust, or narrow-line-region dust (see [paper](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...92L), [paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..31L)). In addition, we also probed the structures of AGN dust torus through near- to mid-IR dust reverberation mapping techniques (see [paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..126L), [paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..126L)).
 
-In 2022, we wrote a comprehensive review on this topic (see [paper](https://ui.adsabs.harvard.edu/abs/2022Univ....8..304L)).
+In 2022, we wrote a comprehensive review on this topic and illustrated how the various observations of different AGN populations across the cosmic time can be reconciled together (see [paper](https://ui.adsabs.harvard.edu/abs/2022Univ....8..304L)).
 </div>
 <div class="col-sm-4">
 <a href="{{ site.url }}{{ site.baseurl }}/images/ngc4151-cartoon.png">

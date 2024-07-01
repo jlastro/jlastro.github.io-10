@@ -60,7 +60,7 @@ permalink: /about/
   <ul>
       <li> extrgalactic survey and IR astronomy </li>
       <li> search and characterization of elusive AGN </li>
-      <li> AGN IR properties and unification; interplay between the AGN torus and host ISM </li>
+      <li> AGN IR properties and unification; interplay between the AGN and host ISM </li>
       <li> black hole/galaxy connection; high-z AGN and quasars </li>
       <li> optical and IR time-domain astronomy </li>
       <li> dust, PAH and star formation </li>

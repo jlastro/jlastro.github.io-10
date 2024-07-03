@@ -119,7 +119,7 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <video width="226" height="150" autoplay loop>
 <source src="{{ site.url }}{{ site.baseurl }}/images/comet_rising.mp4" type="video/mp4">
 </video>
-<div class="desc"> Comet C/2021 A1 Leonard rising above horizon, Dec 11, 2021
+<div class="desc"> Comet C/2021 A1 Leonard rising above horizon (Dec 11, 2021)
 </div>
 </div>
 </div>
@@ -143,7 +143,7 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/comet2.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/comet2.png" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ, July 09, 2020
+<div class="desc"> Comet C/2020 F3 (NEOWISE), shot near Nanini Library, Tucson AZ (July 09, 2020)
 </div>
 </div>
 </div>

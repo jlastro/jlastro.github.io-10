@@ -180,8 +180,8 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg">
 <img src="{{ site.url }}{{ site.baseurl }}/images/m31.jpeg" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Messier 31 the Andromeda Galaxy (Aug 08, 2017). This is the first light image of my small telescope, no tracking
-  was conducted with very basic reduction.
+<div class="desc"> Messier 31 the Andromeda Galaxy. This is the first light image of my AT70ED, no tracking
+  conducted with very basic post-processing. (Aug 08, 2017)
 </div>
 </div>
 </div>
@@ -191,7 +191,7 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/LMCSMC.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Large Magellanic Cloud (LMC) and Small Magellanic Cloud (SMC), shot near Magellan Telescopes during the
+<div class="desc"> Large Magellanic Cloud (LMC) and Small Magellanic Cloud (SMC), shot near Magellan Telescopes during one
   observing run
 </div>
 </div>
@@ -226,7 +226,7 @@ Back to astronomy, I have been a stargazer around sevenish. The first telescope 
 <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp">
 <img src="{{ site.url }}{{ site.baseurl }}/images/landscape2.webp" alt="Northern Lights" width="600" height="400">
 </a>
-<div class="desc"> Night sky over two Magellan Telescopes, Chile (LMC, SMC and Milk Way are seen together)
+<div class="desc"> Night sky over two Magellan Telescopes, Chile (LMC, SMC and Milky Way are seen together)
 </div>
 </div>
 </div>

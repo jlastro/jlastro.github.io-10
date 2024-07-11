@@ -56,9 +56,9 @@ permalink: /about/
 
 
 <div class="jumbotron">
-  <h3>Reserch Interest</h3>
+  <h3>Research Interest</h3>
   <ul>
-      <li> extrgalactic survey and IR astronomy </li>
+      <li> extragalactic survey and IR astronomy </li>
       <li> search and characterization of elusive AGN </li>
       <li> AGN IR properties and unification; interplay between the AGN and host ISM </li>
       <li> black hole/galaxy connection; high-z AGN and quasars </li>

@@ -38,4 +38,4 @@ iframe {
 [IR line list (MPE)](https://www.mpe.mpg.de/ir/ISO/linelists/index.html)| [IR line list (IPAC)](https://www.ipac.caltech.edu/iso/lws/ir_lines.html)| [UV-optical line list](http://astronomy.nmsu.edu/drewski/tableofemissionlines.html)|
 
 #### dust data/models
-[Dust Models (Draine)](https://www.astro.princeton.edu/~draine/dust/dust.html)| [optical const (AIU)](https://www.astro.uni-jena.de/index.php/laboratory/databases.html)
+[Dust Models (Draine)](https://www.astro.princeton.edu/~draine/dust/dust.html)| [optical const (AIU)](https://www.astro.uni-jena.de/index.php/laboratory/databases.html) | [optool](https://github.com/cdominik/optool/)
